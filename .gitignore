@@ -49,3 +49,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 .positai
+
+# DASHlink Download Files
+data/
+*.zip
+*.mat

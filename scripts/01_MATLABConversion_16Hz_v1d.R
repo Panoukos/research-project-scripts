@@ -3,7 +3,7 @@
 # Capitol Technology University
 # Chair: Dr. Leila Halawi
 #
-# MATLABConversion_16Hz_v1c.R
+# MATLABConversion_16Hz_v1d.R
 #
 # v1d = v1C + renaming line 6 to match script file name and test the commit-push procedure with github.
 #
